@@ -21,7 +21,13 @@
 .App-intro {
   font-size: large;
 }
-
+.games:hover{
+    text-decoration: underline;
+  	cursor:pointer;
+}
+.username{
+ 	display:flex; 
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
